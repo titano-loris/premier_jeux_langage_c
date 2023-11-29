@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701294706 source:c:\users\lrs\documents\project paradise\c\jeux_pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"main.h"
+
+1681818402 c:\users\lrs\documents\project paradise\c\jeux_pendu\main.h
+	<stdio.h>
+
